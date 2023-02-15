@@ -13,57 +13,57 @@ msgstr ""
 
 #: ../../installation_mac.rst:5
 msgid "Installation in Mac OS"
-msgstr ""
+msgstr "Установка в Mac OS"
 
 #: ../../installation_mac.rst:14
 msgid "QGIS download and installation"
-msgstr ""
+msgstr "QGIS Скачать и установку"
 
 #: ../../installation_mac.rst:16
 msgid ""
 "Download and install the latest version of QGIS and GDAL from `here "
 "<http://www.kyngchaos.com/software/qgis>`_ ."
-msgstr ""
+msgstr "QGIS Скачать и установку"
 
 #: ../../installation_mac.rst:18
 msgid ""
 "In addition, download and install the python modules Numpy, Scipy, and "
 "Matplotlib from this `link <http://www.kyngchaos.com/software/python>`_ ."
-msgstr ""
+msgstr "QGIS Скачать и установку"
 
 #: ../../installation_mac.rst:20
 msgid "Now, QGIS 2 is installed."
-msgstr ""
+msgstr «Теперь QGIS 2 установлен».
 
 #: ../../installation_mac.rst:27
 msgid "Semi-Automatic Classification Plugin installation"
-msgstr ""
+msgstr «Полуавтоматическая классификационная установка плагина»
 
 #: ../../installation_mac.rst:29
 msgid "Run QGIS 2;"
-msgstr ""
+msgstr «Запустить QGIS 2;»
 
 #: ../../installation_mac.rst:31
 msgid ""
 "From the main menu, select ``Plugins`` > ``Manage and Install Plugins``;"
-msgstr ""
+msgstr «Запустить QGIS 2;»
 
 #: ../../installation_mac.rst:35
 msgid ""
 "From the menu ``All``, select the Semi-Automatic Classification Plugin and "
 "click the button ``Install plugin``;"
-msgstr ""
+msgstr «Запустить QGIS 2;»
 
 #: ../../installation_mac.rst:39
 msgid ""
 "The SCP should be automatically activated; however, be sure that the Semi-"
 "Automatic Classification Plugin is checked in the menu ``Installed`` (the "
 "restart of QGIS could be necessary to complete the SCP installation);"
-msgstr ""
+msgstr «Запустить QGIS 2;»
 
 #: ../../installation_mac.rst:46
 msgid "Configuration of the plugin"
-msgstr ""
+msgstr "Конфигурация плагина"
 
 #: ../../installation_mac.rst:48
 msgid ""
@@ -71,18 +71,18 @@ msgid ""
 " a toolbar should be added to QGIS. Also, a SCP menu is available in the "
 "Menu Bar of QGIS. It is possible to move the :ref:`toolbar` and the docks "
 "according to your needs, as in the following image."
-msgstr ""
+msgstr "Конфигурация плагина"
 
 #: ../../installation_mac.rst:54
 msgid ""
 "The configuration of available RAM is recommended in order to reduce the "
 "processing time. From the :ref:`SCP_menu` select |settings| ``Settings > "
 "Processing`` ."
-msgstr ""
+msgstr "Конфигурация плагина"
 
 #: ../../installation_mac.rst:59
 msgid ""
 "In the :ref:`settings_tab`, set the ``Available RAM (MB)`` to a value that "
 "should be half of the system RAM. For instance, if your system has 2GB of "
 "RAM, set the value to 1024MB."
-msgstr ""
+msgstr "Конфигурация плагина"
